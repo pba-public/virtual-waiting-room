@@ -1,0 +1,5 @@
+addSbtPlugin("io.spray"       % "sbt-revolver"        % "0.9.1")
+addSbtPlugin("ch.epfl.scala"  % "sbt-scalafix"        % "0.9.34")
+addSbtPlugin("org.scalameta"  % "sbt-scalafmt"        % "2.4.6")
+addSbtPlugin("com.github.sbt" % "sbt-native-packager" % "1.9.7")
+addSbtPlugin("io.kamon" % "sbt-kanela-runner" % "2.0.14")
