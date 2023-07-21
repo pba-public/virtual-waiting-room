@@ -1,0 +1,13 @@
+.ammonite/
+.bloop/
+.bsp/
+.dotty-ide*
+.idea/
+.metals/
+.scala/
+.vscode/
+*.worksheet.sc
+metals.sbt
+target/
+*.semanticdb
+data/
